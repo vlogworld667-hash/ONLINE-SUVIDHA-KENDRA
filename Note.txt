@@ -1,0 +1,24 @@
+  🔥 UPI Payment Gateway Setup 🔥
+
+Payment Gateway Connect Karne Ke Liye:
+
+📂 File Location: "admin/wallet.php"
+
+✅ Apna UPI Key Add Karein
+
+
+Portal Links
+
+🔥 UPI Payment Gateway Portal
+"upi.fastnexora.xyz"
+
+🌐 API Authorization Portal
+"auth.fastnexora.xyz"
+
+Important Note
+
+API Key sahi tarah se configure karne ke baad hi Payment Gateway successfully kaam karega.
+
+Agar setup mein koi issue aaye to Administrator se contact karein. 
+
+          🧑‍💻 Support Team: Aaryan Kushwaha
